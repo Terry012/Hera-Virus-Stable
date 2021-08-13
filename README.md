@@ -1,5 +1,5 @@
 # Hera-Virus-Stable
-Simple Virus Program. Please do not run this on your PC unless you want it broken.
+Discription !!!!!!!!!!!!!!!!!!!!!!!!!
 
 error.vbs, Displays a simple fake error message. You can end it easily with Task Manager. NO HARM.
 
