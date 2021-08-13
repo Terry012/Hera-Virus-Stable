@@ -10,4 +10,4 @@ Main.exe.bat, This Batch file prompts the user to see if he or she really wanted
 notvirus.bat, This script was used as a replacement for virus.bat during tests. NO HARM.
 question-logo.txt, txt document to display a text logo. NO HARM.
 virus.bat, Opens a million msgbox windows, this program might crash your computer. HARM INCLUDED.
-virus.vbs, Displays a fake virus message. NO HARM.
+virus.vbs, Displays a fake virus message. NO HARM. 
